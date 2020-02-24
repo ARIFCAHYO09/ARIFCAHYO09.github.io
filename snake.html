@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+  	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+  	<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  	<link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+	<title></title>
+</head>
+<body>
+	<h1 class="text-center"><br>SNAKE AI</h1>
+	<br>
+
+	<br>
+	<div class="container">
+		<center>
+			<div data-includeHTML="snake2.html"></div>
+		</center>
+
+		<br>
+		<p class="text-justify">
+Snake AI is the result of exploring my thesis project. This snake can search for its own food without the need to be controlled, the available algorithms are Dijkstra and A * that I made myself using native Javascript.
+		</p>
+		<b>Useful Links (Please open in new tab or it will not work) :</b>
+		<ul>
+			<li><a href="https://github.com/ARIFCAHYO09/snake-ai">Repository Snake AI<a/></li>
+		</ul>
+	</div>
+
+	<script src="assets/vendor/jquery/jquery.min.js"></script>
+	<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script>
+	    $(document).ready(function () {
+	        $("div[data-includeHTML]").each(function () {                
+	            $(this).load($(this).attr("data-includeHTML"));
+	        });
+	    });
+	</script>
+</body>
+</html>
