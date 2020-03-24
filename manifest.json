@@ -1,7 +1,7 @@
 {
   "name": "Laravel",
   "short_name": "PWA",
-  "start_url": "http://mirota-shop.cahyosoft.my.id/",
+  "start_url": "https://arifcahyo09.github.io",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
