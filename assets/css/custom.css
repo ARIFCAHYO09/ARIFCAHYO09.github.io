@@ -10,7 +10,7 @@
   .container_service {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
   }
   
   .container .box {
@@ -87,6 +87,22 @@
   
   .container .box:nth-child(3):hover .icon {
     box-shadow: 0 0 0 400px #2196f3;
+    /* background: #e91e63; */
+  }
+
+  .container .box:nth-child(4) {
+    border-color: #4d13d1;
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  
+  .container .box:nth-child(4) .icon {
+    box-shadow: 0 0 0 0 #4d13d1;
+    background: #4d13d1;
+  }
+  
+  .container .box:nth-child(4):hover .icon {
+    box-shadow: 0 0 0 400px #4d13d1;
     /* background: #e91e63; */
   }
   
