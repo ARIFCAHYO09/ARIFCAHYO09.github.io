@@ -21,55 +21,55 @@
   "background_color": "#1e4356",
   "orientation": "any",
   "splash": {
-    "640x1136": "/assets/img/logo.PNG",
-    "750x1334": "/assets/img/logo.PNG",
-    "828x1792": "/assets/img/logo.PNG",
-    "1125x2436": "/assets/img/logo.PNG",
-    "1242x2208": "/assets/img/logo.PNG",
-    "1242x2688": "/assets/img/logo.PNG",
-    "1536x2048": "/assets/img/logo.PNG",
-    "1668x2224": "/assets/img/logo.PNG",
-    "1668x2388": "/assets/img/logo.PNG",
-    "2048x2732": "/assets/img/logo.PNG"
+    "640x1136": "/assets/img/logo.png",
+    "750x1334": "/assets/img/logo.png",
+    "828x1792": "/assets/img/logo.png",
+    "1125x2436": "/assets/img/logo.png",
+    "1242x2208": "/assets/img/logo.png",
+    "1242x2688": "/assets/img/logo.png",
+    "1536x2048": "/assets/img/logo.png",
+    "1668x2224": "/assets/img/logo.png",
+    "1668x2388": "/assets/img/logo.png",
+    "2048x2732": "/assets/img/logo.png"
   },
   "icons": [
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "152x152"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "/assets/img/logo.PNG",
+      "src": "/assets/img/logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
