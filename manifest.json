@@ -17,59 +17,59 @@
   "short_name": "Cahyosoft",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "theme_color": "#1e4356",
+  "background_color": "#1e4356",
   "orientation": "any",
   "splash": {
-    "640x1136": "/images/icons/splash-640x1136.png",
-    "750x1334": "/images/icons/splash-750x1334.png",
-    "828x1792": "/images/icons/splash-828x1792.png",
-    "1125x2436": "/images/icons/splash-1125x2436.png",
-    "1242x2208": "/images/icons/splash-1242x2208.png",
-    "1242x2688": "/images/icons/splash-1242x2688.png",
-    "1536x2048": "/images/icons/splash-1536x2048.png",
-    "1668x2224": "/images/icons/splash-1668x2224.png",
-    "1668x2388": "/images/icons/splash-1668x2388.png",
-    "2048x2732": "/images/icons/splash-2048x2732.png"
+    "640x1136": "/assets/img/logo.PNG",
+    "750x1334": "/assets/img/logo.PNG",
+    "828x1792": "/assets/img/logo.PNG",
+    "1125x2436": "/assets/img/logo.PNG",
+    "1242x2208": "/assets/img/logo.PNG",
+    "1242x2688": "/assets/img/logo.PNG",
+    "1536x2048": "/assets/img/logo.PNG",
+    "1668x2224": "/assets/img/logo.PNG",
+    "1668x2388": "/assets/img/logo.PNG",
+    "2048x2732": "/assets/img/logo.PNG"
   },
   "icons": [
     {
-      "src": "/images/icons/icon-72x72.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "/images/icons/icon-96x96.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/images/icons/icon-128x128.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/images/icons/icon-144x144.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/images/icons/icon-152x152.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "152x152"
     },
     {
-      "src": "/images/icons/icon-192x192.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/icons/icon-384x384.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "/images/icons/icon-512x512.png",
+      "src": "/assets/img/logo.PNG",
       "type": "image/png",
       "sizes": "512x512"
     }
